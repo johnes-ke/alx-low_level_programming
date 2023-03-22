@@ -1,3 +1,5 @@
-char _putchar(char c){
-	print(c);
+#include <stdio.h>
+
+void _putchar(char c){
+	printf(c);
 }
